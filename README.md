@@ -1,22 +1,22 @@
-# TikTokTool
+# TikTokTool :hammer_and_wrench:
 
-A simple Python script for TikTok trend analysis.
+A simple Python script for TikTok trend analysis :fire: :snake:
 
-## Requirements
+## Requirements :page_facing_up:
 
 * Python 3.6+
 * pip 
 
-## Installation
+## Installation :gear:
 
 ```bash
 pip install tiktok-bot
 pip install colorama
 ```
 
-## Run
+## Run :runner:
 
-### Setup script (editable values)
+### Setup script (editable values) :wrench:
 
 ```bash
 POST_TO_FETCH = 5  # Number of posts to fetch
@@ -25,13 +25,13 @@ LIKE_MIN = 200000 # Minimum number of likes per post
 SHARE_MIN = 2000 # Minimum number of shares per post
 ```
 
-### Start script
+### Start script :rocket:
 
 ```bash
 python3 src/TikTokTool.py
 ```
 
 
-## LICENSE
+## LICENSE :copyright:
 
 [LICENSE](./LICENSE)
