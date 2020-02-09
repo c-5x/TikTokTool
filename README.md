@@ -10,8 +10,11 @@ A simple Python script for TikTok trend analysis :fire: :snake:
 ## Installation :gear:
 
 ```bash
-pip install tiktok-bot
-pip install colorama
+py -m pip install tiktok-bot
+py -m pip install colorama
+
+python3 -m pip install tiktok-bot
+python3 -m pip install colorama
 ```
 
 ## Run :runner:
@@ -28,7 +31,8 @@ SHARE_MIN = 2000 # Minimum number of shares per post
 ### Start script :rocket:
 
 ```bash
-python3 src/TikTokTool.py
+python3 TikTokTool.py
+py TikTokTool.py
 ```
 
 
