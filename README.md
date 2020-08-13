@@ -1,3 +1,8 @@
+# :warning: This project is no longer under development. :warning:
+# API deprecated, this script won't be available anymore.
+
+---
+
 # TikTokTool :hammer_and_wrench:
 
 A simple Python script for TikTok trend analysis :fire: :snake:
